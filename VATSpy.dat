@@ -203,7 +203,7 @@ Oman|OO|Control
 Pakistan|OP|Control
 Palestine|LV|
 Panama|MP|
-Papua New Guinea|AY|
+Papua New Guinea|AY|Control
 Paraguay|SG|
 Peru|SP|Control
 Philippines|RP|Control
@@ -16743,6 +16743,7 @@ YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-D|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-DE|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-E|YBIK|0
+YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-W|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-N|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-C|YBIK|0
 YSTA|St Arnaud|-36.636667|143.185833||YYWE|0
@@ -17909,7 +17910,7 @@ ADR-W|Adria Radar (West)|ADR_W|ADR-W
 ADR-E|Adria Radar (East)|ADR_E|ADR-E
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
-AYPM|Port Moresby||AYPM
+AYPM|Moresby||AYPM
 BGGL|Nuuk||BGGL
 BIRD|Reykjavik||BIRD
 BIRD|Reykjavik|BIRD_S1|BIRD
